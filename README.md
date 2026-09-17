@@ -1,4 +1,4 @@
-# terinfoalkproba2026
+# terinformatikai alkalmazások terinfoalkproba2026
 idei elso repozitoriumom
 ## idei tanoráim
 - terinformatikai alkalmazások
