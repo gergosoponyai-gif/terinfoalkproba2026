@@ -1,5 +1,6 @@
 # terinformatikai alkalmazások terinfoalkproba2026
 idei elso repozitoriumom
+
 ## idei tanoráim
 - Nagyméretarányú térképezés II.
 - terinformatikai alkalmazások
