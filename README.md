@@ -7,7 +7,7 @@ idei elso repozitoriumom
 - Hidrológia és vízgazdálkodás
 - környezeti modellezés
 - Water resources management
-- Digital data processing
+- Digital data processing sorrend!
 - Infokommunikációs eszközök
 
 ## tantermek
