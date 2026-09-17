@@ -8,7 +8,7 @@ idei elso repozitoriumom
 - környezeti modellezés
 - Water resources management
 - Digital data processing
-- Infokommunikációs eszközök
+- Infokommunikációs eszközök.
 
 ## tantermek
 - 4-es terem
