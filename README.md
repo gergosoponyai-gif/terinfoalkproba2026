@@ -9,3 +9,7 @@ idei elso repozitoriumom
 - Water resources management
 - Digital data processing
 - Infokommunikációs eszközök
+
+## tantermek
+- 4-es terem
+- Geo gyakorlo
