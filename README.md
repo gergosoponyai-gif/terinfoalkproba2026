@@ -13,3 +13,8 @@ idei elso repozitoriumom
 ## tantermek
 - 4-es terem
 - Geo gyakorlo
+
+## kezdések 
+1. hétfő 12:00
+2. kedd 09:00
+3. szerda 08:00
